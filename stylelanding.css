@@ -41,12 +41,6 @@ body .jumbotron{
     flex-direction: column;
     height: fit-content;
   }
-
-  #myCarousel
-  {
-    display: flex;
-    flex-direction: column;
-  }
 }
 
 @media (min-width: 768px) {
