@@ -35,24 +35,6 @@ body .jumbotron{
   background-color:  rgb(255, 208, 80) !important;
 }
 
-.carousel {
-  height: 250px;
-  color: black !important;
-}
-
-.carousel-item img {
-  object-fit: cover;
-  height: 250px;
-  width: 100%;
-  color: black !important;
-}
-.carousel-item {
-  background-size: cover;
-  background-position: center;
-  color: black !important;
-}
-
-
 @media (min-width: 320px) {
   .jumbotron {
     display: flex;
