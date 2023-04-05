@@ -1,5 +1,11 @@
+body {
+  background: rgb(255,255,255);
+  background: linear-gradient(30deg, rgba(255,255,255,1) 0%, rgba(255,250,236,1) 100%);
+}
+
 .header {
-  background-color:rgb(255, 241, 177);
+  background: rgb(255,223,49);
+  background: linear-gradient(30deg, rgba(255,223,49,1) 0%, rgba(255,247,221,1) 100%);;
   color: black;
   text-decoration: none;
 }
@@ -86,7 +92,8 @@ body .jumbotron{
 
 .footer {
 
-  background-color:rgb(255, 241, 177);
+  background: rgb(255,223,49);
+  background: linear-gradient(30deg, rgba(255,223,49,1) 0%, rgba(255,247,221,1) 100%);;
   color: black;
   text-decoration: none;
   margin: 0;
